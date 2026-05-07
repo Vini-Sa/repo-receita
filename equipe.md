@@ -8,3 +8,7 @@ Nome Completo: Raní de Souza Bezerra
 Email: ranibro@gmail.com
 Usuário do Git: ranibro
 --------------------
+--------------------
+Ediciana Lopes de Andrade Torres
+Edicianatorres@gmail.com
+ediciana1234
