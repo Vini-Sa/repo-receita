@@ -10,6 +10,7 @@ Ferve a agua,
 coloca o macarrao,
 coloca o tempero,
 em tres minutos esta pronto.
+Tempo de preparo 10 minutos.
 
 ----------------------
 🏷️ Categorias
