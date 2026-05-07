@@ -9,6 +9,9 @@ Email: ranibro@gmail.com
 Usuário do Git: ranibro
 --------------------
 --------------------
+Ediciana Lopes de Andrade Torres
+Edicianatorres@gmail.com
+ediciana1234
+--------------------
 Maria Isabel da silva santos, mariaisabelsantos450@gmail.com, mariaisabelsantos450@gmail.com.
 Dalila Regina da Silva Queiroz, dalila.queiroz84@gmail.com, Dalila-Queiroz
-
